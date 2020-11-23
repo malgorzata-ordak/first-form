@@ -1,0 +1,23 @@
+
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #D4AFB9
+}
+
+
+.h1 {
+    color: white
+}
+.form {
+
+}
+
+.form__input {
+    display: block;
+    width: 100%;
+
+}
